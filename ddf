@@ -1,0 +1,29 @@
+[33mcommit 1f464db3d4c7ce9e2c685022471e9b3f6a4fb609[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Miguel <“miguel.dombla@educa.jcyl.es”>
+Date:   Sun Jan 23 18:02:04 2022 +0100
+
+    Añado fichero1
+
+[33mcommit a0e87c351d868726ec3e3d9c4d2c49ce9d479a49[m
+Author: Miguel <“miguel.dombla@educa.jcyl.es”>
+Date:   Sat Jan 22 18:06:19 2022 +0100
+
+    añado línea adicional
+
+[33mcommit d9e57390d1b34d64423e7ccc066329b19c2a9a11[m
+Author: Miguel <“miguel.dombla@educa.jcyl.es”>
+Date:   Sat Jan 22 18:03:09 2022 +0100
+
+    añado el fichero creado en casa de lm
+
+[33mcommit d323e4c21f47046612abe75594b0b8b0f863678a[m
+Author: Miguel <“miguel.dombla@educa.jcyl.es”>
+Date:   Thu Jan 13 12:55:08 2022 +0100
+
+    Experimento comillas dobles
+
+[33mcommit 1f2a26b3602ed6d13858afdfdbe1514be73ee70d[m
+Author: Miguel <“miguel.dombla@educa.jcyl.es”>
+Date:   Thu Jan 13 12:53:02 2022 +0100
+
+    mi primer archivo git
